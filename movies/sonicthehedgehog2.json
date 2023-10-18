@@ -1,19 +1,22 @@
 {
     "title": "Sonic the Hedgehog 2",
     "director": "Jeff Fowler",
+    "duration": 122,
+    "genres": [ "action", "adventure", "comedy" ],
     "writers": {
         "screenplay": [ "Pat Casey", "Josh Miller", "John Whittington" ],
         "story": [ "Pat Casey", "Josh Miller" ]
     },
-    "ratings": {
-        "unitedStates": "TV-PG",
-        "unitedStatesMPAA": "PG",
-        "unitedKingdom": "",
-        "canada": "PG",
-        "australia": "PG",
-        "newZealand": "PG",
-        "germany": "6",
-        "japan": "G",
-        "themirrazz": "Parental Guidance (PG)"
+    "officialRating": "PG",
+    "themirrazzRatings": [ "TV-PG", "G", "Parental Guidance (PG)" ],
+    "watchOn": {
+        "appleTV": "https://tv.apple.com/us/movie/sonic-le-herisson-2-sonic-the-hedgehog-2/umc.cmc.36we37m2yhrpib29b0o40s4z4?action=play",
+        "primeVideo": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.91e49ebe-21b2-48ec-9b92-0b50e57d2392",
+        "mirrazzTV": "https://mmtvph.themirrazz.repl.co/id/sonicthehedgehog2/play/",
+        "redbox": "https://www.redbox.com/movies/sonic-the-hedgehog-2",
+        "mgmplus": "https://www.mgmplus.com/movie/sonic-the-hedgehog-2?play=true",
+        "paramountPlus": "https://www.paramountplus.com/movies/sonic-the-hedgehog-2/NXFYTekfckCoKBmEoDZZOtMsiCIG3D0_",
+        "youtube": "https://www.youtube.com/watch?v=Ozv7SMkI7UU",
+        "rokuChannel": "https://therokuchannel.roku.com/watch/b9be66c46a33532897b1553a0890ca4a"
     }
 }
