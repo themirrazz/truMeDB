@@ -1,5 +1,21 @@
 {
     "title": "Sonic the Hedgehog 2",
+    "year": "2022",
+    "languages": [
+        "US English (en-US)",
+        "Spanish (es-SP)",
+        "Latin American Spanish (es-MX)",
+        "Canadian French (fr-CA)",
+        "French (fr-FR)",
+        "German (de-DE)",
+        "Japanese (ja-JP)",
+        "Chinese Mandarian (zh-CH)",
+        "Taiwan Mandarian (zh-TW)",
+        "Russian (ru-RU)",
+        "Arabic (ar-AR)",
+        "Portugese (po-PL)",
+        "Brazillian Portugese (po-BR)"
+    ],
     "director": "Jeff Fowler",
     "duration": 122,
     "genres": [ "action", "adventure", "comedy" ],
