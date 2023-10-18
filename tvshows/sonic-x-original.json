@@ -1,5 +1,278 @@
 {
     "title": "ソニックX (SonicX)",
     "year": 2003,
-    "
+    "languages": [
+        "Japanese (ja-JP)"
+    ],
+    "genres": [ "adventure" ],
+    "watchOn": {
+        "primeVideo": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.ccb5855c-63d4-4b4d-38d0-f133a86f699a",
+        "mirrazzTV": "https://mmtvph.themirrazz.repl.co/id/sonikkux/play/",
+        "netflix": "https://www.netflix.com/watch/81172267",
+        "hulu": "https://www.hulu.com/series/bb12b9d2-c2dd-47eb-9815-7fe72abb024d",
+        "rokuChannel": "https://therokuchannel.roku.com/details/d9caea761f3b5a09a8f85e59a169f2e5/sonic-x",
+    },
+    "seasons": [ ],
+    "episodes": [
+        {
+            "title": "Chaos Control Freaks",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 1,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Infiltrate! Area 99",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 2,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Dr. Eggman's Ambition",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 3,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Chaos Emerald Chaos",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 4,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Clash!! Sonic vs Knuckles",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 5,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Fierce Battle! School Wars",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 6,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Giant Free-for-All! Chris' House Party!",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 7,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Emergency Launch! X-Tornado",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 8,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Amy on the Beach",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 9,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Fierce Fight! Sonic Baseball Team",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 10,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Fly Spy",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 11,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Attack on Eggman Base!",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 12,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "After Attack on Eggman's Base",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 13,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Chase After the Hero Sonic!",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 14,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Mobile Fortress Egg Fort Attacks!",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 15,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Aim for it! The Sunken Ship in the Southern Sea",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 16,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Knuckles! Clenched Fists of Anger",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 17,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Huge Shoot-Out on the Savana",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 18,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Ghost of the Old Castle King Boom Boo",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 19,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Cruise Blues",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 20,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Fast Friends",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 21,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Little Lost Chaos",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 22,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Emerald Anniversary",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 23,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "How to Catch a Hedgehog",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 24,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "A Dastardly Deed",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 25,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        },
+        {
+            "title": "Birth! Super Sonic",
+            "plot": "Sonic and Dr. Eggman fight to possess the seventh Chaos Emerald.",
+            "airDate": "06/04/2003",
+            "duration": 1500,
+            "season": null,
+            "episode": 26,
+            "officialRating": "G",
+            "themirrazzRatings": [ "TV-14", "G", "Teen (13+)" ]
+        }
+    ]
 }
