@@ -3,5 +3,15 @@
     "artist": "ONE OK ROCK",
     "album": "Luxury Disease",
     "year": "2018",
-    "genres": [ "rock" ]
+    "genres": [ "rock", "jpop" ],
+    "explicit": true,
+    "listenOn": {
+        "spotify": "https://open.spotify.com/track/1zPsa7aCICVvxBpPuzA9JJ?autoplay=true",
+        "pandora": "https://www.pandora.com/song/play/TR:77105054",
+        "mirrazzMedia": "https://mmdaph.themirrazz.repl.co/tr/vandalize/",
+        "appleMusic": "https://music.apple.com/us/album/vandalize/1631269650?i=1631270113",
+        "iHeartRadio": "https://www.iheart.com/artist/one-ok-rock-30930506/songs/vandalize-182904636/?autoplay=true",
+        "deezer": "https://www.deezer.com/track/1874895967",
+        "youtube": "https://www.youtube.com/watch?v=neexlOTmAxw"
+    }
 }
