@@ -1,0 +1,19 @@
+{
+    "title": "Sonic the Hedgehog 2",
+    "director": "Jeff Fowler",
+    "writers": {
+        "screenplay": [ "Pat Casey", "Josh Miller", "John Whittington" ],
+        "story": [ "Pat Casey", "Josh Miller" ]
+    },
+    "ratings": {
+        "unitedStates": "TV-PG",
+        "unitedStatesMPAA": "PG",
+        "unitedKingdom": "",
+        "canada": "PG",
+        "australia": "PG",
+        "newZealand": "PG",
+        "germany": "6",
+        "japan": "G",
+        "themirrazz": "Parental Guidance (PG)"
+    }
+}
